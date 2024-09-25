@@ -1,0 +1,15 @@
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/bin/Debug/net8.0/Lab_5_ConsoleApp
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/bin/Debug/net8.0/Lab_5_ConsoleApp.deps.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/bin/Debug/net8.0/Lab_5_ConsoleApp.runtimeconfig.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/bin/Debug/net8.0/Lab_5_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/bin/Debug/net8.0/Lab_5_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.AssemblyInfoInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.AssemblyInfo.cs
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.sourcelink.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/refint/Lab_5_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/Lab_5_ConsoleApp.genruntimeconfig.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/obj/Debug/net8.0/ref/Lab_5_ConsoleApp.dll

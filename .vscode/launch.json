@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp",
+      "program": "/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_5/Lab_5_ConsoleApp/build/Debug/outDebug"
+    }
+  ]
+}
